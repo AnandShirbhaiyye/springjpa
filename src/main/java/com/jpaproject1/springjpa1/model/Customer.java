@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.Set;
 
 @Entity
-@Setterhttps://github.com/AnandShirbhaiyye/springjpa.git
+//@Setterhttps://github.com/AnandShirbhaiyye/springjpa.git
 @Getter
 public class Customer {
 
